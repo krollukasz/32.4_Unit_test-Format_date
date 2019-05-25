@@ -1,0 +1,16 @@
+{
+  "name": "32.4_unit_test-format_date",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "keywords": [],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {},
+  "description": ""
+}
